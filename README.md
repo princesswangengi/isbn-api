@@ -1,4 +1,4 @@
-# PYTHON ISBN API (Flask)
+# PYTHON ISBN API (Flask) BY ANGELA GLADYS
 ## Features
 - Compute ISBN-10 check digit
 - Validating ISBN-10
